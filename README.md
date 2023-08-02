@@ -1,8 +1,8 @@
-# html-layout-odigo
+# Odigo Layout
 
 ## Description
 
-This repository contains the HTML and CSS code for the Odigo website layout. [Odigo](https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0%3A271&mode=dev) is a fictional travel agency that offers personalized travel experiences to different destinations around the world.
+This repository contains the HTML and CSS code for the [Odigo](https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0%3A271&mode=dev) website layout.
 
 ## Getting Started
 
