@@ -9,3 +9,17 @@
     }
   };
 })();
+
+(function () {
+  const burger = document.querySelector(".burger");
+  const menu = document.querySelector(".header_nav");
+  const menuClose = document.querySelector(".header_nav-close");
+
+  burger.addEventListener("click", () => {
+    menu.classList.add("header_nav_active");
+  });
+
+  menuClose.addEventListener("click", () => {
+    menu.classList.remove("header_nav_active");
+  });
+})();
